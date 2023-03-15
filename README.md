@@ -9,3 +9,7 @@
 
 ## R을 활용한 데이터 과학(R for Data Science)
 * https://bookdown.org/sulgi/r4ds/
+
+
+## EDA
+* http://bigdata.dongguk.ac.kr/lectures/EDA/_book/section-42.html
