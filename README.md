@@ -13,3 +13,7 @@
 
 ## EDA
 * http://bigdata.dongguk.ac.kr/lectures/EDA/_book/section-42.html
+
+
+## 데이터 마이닝
+* http://bigdata.dongguk.ac.kr/lectures/dm/_book/index.html#%ED%8F%89%EA%B0%80
