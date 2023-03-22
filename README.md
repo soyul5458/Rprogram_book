@@ -17,3 +17,7 @@
 
 ## 데이터 마이닝
 * http://bigdata.dongguk.ac.kr/lectures/dm/_book/index.html#%ED%8F%89%EA%B0%80
+
+
+## Must Learning with R (개정판)
+* https://wikidocs.net/73354
